@@ -2,3 +2,4 @@
 
 Notes and usage details for markdown-agent-memory.
 - clarify the setup steps
+- link the usage section
